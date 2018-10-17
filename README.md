@@ -17,4 +17,4 @@ For Extracts, it takes JSON object as input.
 
 For Live Connection with Data Sources, it takes SQL query as input
 
-4. tab_json.py has the details of how to execute the tab_ds.py
+4. tab_json.py has the details of how to call the tab_ds.py
